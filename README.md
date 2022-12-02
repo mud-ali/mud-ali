@@ -1,16 +1,28 @@
-### Hi there 👋
+## Mudasir Ali
 
-<!--
-**mud-ali/mud-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student interested in engineering and programming
 
-Here are some ideas to get you started:
+#### Languages
+- Native language - JS [browser or Node] :)
+- Others include: Python 🐍, Java ☕, HTML5/CSS3, MySQL 🐘, Arduino C/C++, and minute amounts of normal people C & 6502 Assembly
+- Interested in learning: C/C++, x86 and/or x64 Assembly, Rust, Kotlin, C#, Powershell and/or Bash, PostgreSQL, and of course MIT Scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Libraries
+- JQuery, React, Manim, Flask, Express, [Vanilla.js](http://vanilla-js.com/), Font-Awesome, Bootstrap
+- Interested in learning: Vue, Django, Tensorflow, OpenCV, Tailwind CSS, Three.js
+
+#### Utilities/Tools used
+- Visual Studio Code
+- ~~Vim when I'm bored~~
+- Android Studio
+- Arduino IDE
+- Github [wow!!!]
+- Autodesk Inventor
+- Fusion360
+- Mozilla Firefox
+- MySQL Workbench
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mud-ali&show_icons=true&count_private=true&theme=dark&hide_rank=true&disable_animations=true&custom_title=mud-ali)
+
+
+![More GH stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mud-ali&theme=dark "top languages")
