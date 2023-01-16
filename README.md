@@ -20,7 +20,7 @@ Student interested in engineering and programming
 - Fusion360
 - MySQL Workbench
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mud-ali&show_icons=true&count_private=true&theme=dark&hide_rank=true&disable_animations=true&custom_title=mud-ali)
+![Github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=mud-ali&show_icons=true&count_private=true&theme=dark&hide_rank=true&disable_animations=true&custom_title=mud-ali)
 
 
-![More GH stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mud-ali&theme=dark "top languages")
+![More GH stats](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mud-ali&theme=dark "top languages")
