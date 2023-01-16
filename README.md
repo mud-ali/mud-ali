@@ -9,7 +9,7 @@ Student interested in engineering and programming
 
 #### Libraries
 - JQuery, React, Flask, Express, [Vanilla.js](http://vanilla-js.com/), Font-Awesome, Bootstrap
-- Interested in learning: Vue, Django, Tensorflow, OpenCV, Tailwind CSS, Three.js, NumPy
+- Interested in learning: Vue, Django, Next.js, Tensorflow, OpenCV, Tailwind CSS, Three.js, NumPy
 
 #### Utilities/Tools used
 - Visual Studio Code
