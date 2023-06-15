@@ -20,6 +20,6 @@ Student interested in engineering and programming
 - Adobe Photoshop, Premiere Pro
 
 
-![Github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=mud-ali&show_icons=true&count_private=true&theme=dracula&custom_title=mud-ali)         ![More GH stats](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=mud-ali&theme=material-palenight "top languages")
+![Github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=mud-ali&show_icons=true&count_private=true&theme=dracula&custom_title=mud-ali)         ![More GH stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mud-ali&theme=material-palenight&langs_count=6 "top languages")
 
 
