@@ -23,5 +23,6 @@ jobs:
         hide-keys: joined, mostStarred, mostForked, following
         max-languages: 10
         animated-language-chart: true
+        language-repository-exclusions: webappdev-final-lab
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
