@@ -20,6 +20,7 @@ Student interested in engineering and programming
 
 <a href="mailto:mmxali22@gmail.com">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mud-ali&theme=material-palenight&langs_count=6&hide=ejs,html" height="400" align="center" />
+  <img src="https://api.githubtrends.io/user/svg/mud-ali/repos?time_range=one_year&loc_metric=changed&theme=synthwaves" align="center"/>
 </a>
 
 <br/>
