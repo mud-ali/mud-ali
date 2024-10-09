@@ -2,9 +2,9 @@
 
 Student interested in engineering and programming
 
-#### Languages
-- Javascript / TypeScript, Python, Java, HTML5/CSS3, MySQL, Arduino, C/C++
-- Interested in learning: Rust, x86 Assembly, Kotlin, C#, PostgreSQL
+#### Top Languages / Platforms
+- TypeScript/JavaScript, Python, Java, HTML/CSS, MySQL, Arduino, C, C++, Kotlin
+- Interested in learning: Rust, x86 Assembly, C#, PostgreSQL
 
 #### Libraries
 - React, Next, Flask, Express, TailwindCSS, SvelteKit, JQuery, Font-Awesome, Bootstrap, Materialize, Pandas, NumPy, 
@@ -14,9 +14,9 @@ Student interested in engineering and programming
 - CAD (Autodesk Inventor, Fusion360)
 - EDA (KiCAD, EasyEDA)
 - Microsoft Office / Google Workspace
-- Vim, Git, Bash/Batch 
-- Markdown, Tex
-- Adobe Photoshop, Premiere Pro
+- Git, Bash/Batch automation
+- LaTeX
+- Adobe Photoshop, Premiere Pro, Figma
 
 <a href="mailto:mmxali22@gmail.com">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mud-ali&theme=material-palenight&langs_count=6&hide=ejs,html" height="400" align="center" />
